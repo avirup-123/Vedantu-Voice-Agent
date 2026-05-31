@@ -1,0 +1,6 @@
+{
+  "name": "Vedantu Academic Counselor Call Simulator",
+  "description": "Interactive Hinglish phone-call simulator for practicing academic counseling, objection handling, and booking free career counseling classes with Vedantu.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
